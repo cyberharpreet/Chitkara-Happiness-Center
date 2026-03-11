@@ -23,8 +23,8 @@ Attractive and engaging hero section
 
 👨‍💻 Made with ❤️ by
 
-Josh Yadav
-
 Harpreet Singh
+
+Josh Yadav
 
 Kanishak
